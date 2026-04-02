@@ -31,7 +31,7 @@ Sistem ini bekerja dalam alur yang terintegrasi:
 | Hitam  | Buzzer (digital pin)  |
 
 
-<img width="2391" height="1188" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/6a9484ff-e23d-45f7-95c6-666ee0f7850c" />
+<img width="2391" height="1188" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/3eec3db1-a5e9-48ca-891e-8868358913d1" />/>
 
 
 
