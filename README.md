@@ -24,14 +24,13 @@ Sistem ini bekerja dalam alur yang terintegrasi:
 | ------ | --------------------- |
 | Merah  | VCC (3.3V / 5V)       |
 | Biru   | GND                   |
-| Kuning | Jalur SDA I2C         |
-| Kuning | Jalur SCL I2C         |
+| Orange | Jalur SDA             |
+| Pink   | Jalur SCL             |
 | Hijau  | TX Fingerprint Sensor |
 | Putih  | RX Fingerprint Sensor |
 | Hitam  | Buzzer (digital pin)  |
 
-
-<img width="2391" height="1188" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/3eec3db1-a5e9-48ca-891e-8868358913d1" />/>
+<img width="2391" height="1161" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/1d9c9e80-2b11-4da7-9af1-ba5ea5a09a16" />
 
 
 
