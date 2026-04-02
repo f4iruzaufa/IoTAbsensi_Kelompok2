@@ -20,6 +20,17 @@ Sistem ini bekerja dalam alur yang terintegrasi:
 4. Feedback: LCD menampilkan nama/ID dan waktu absen, sementara Buzzer berbunyi sebagai tanda proses berhasil.
 5. Konektivitas (IoT): Karena menggunakan ESP32, data absen ini nantinya bisa dikirim ke Google Sheets, Database (MySQL), atau aplikasi Telegram melalui Wi-Fi.
 
+| Warna  | Fungsi                |
+| ------ | --------------------- |
+| Merah  | VCC (3.3V / 5V)       |
+| Biru   | GND                   |
+| Kuning | Jalur SDA I2C         |
+| Kuning | Jalur SCL I2C         |
+| Hijau  | TX Fingerprint Sensor |
+| Putih  | RX Fingerprint Sensor |
+| Hitam  | Buzzer (digital pin)  |
+
+
 <img width="2391" height="1188" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/6a9484ff-e23d-45f7-95c6-666ee0f7850c" />
 
 
