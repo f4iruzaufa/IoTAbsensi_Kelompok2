@@ -15,7 +15,7 @@ Cara Kerja Sistem (Workflow)
 
 Sistem ini bekerja dalam alur yang terintegrasi:
 1. Identifikasi: Sensor R307 memindai sidik jari dan mengubahnya menjadi kode digital (ID).
-2. Validasi Waktu: Modul RTC DS1307 memberikan data waktu (jam, menit, detik) yang akurat dan real-time tanpa perlu koneksi internet (karena ada baterai cadangan).
+2. Validasi Waktu: Modul RTC DS3231(RTC) memberikan data waktu (jam, menit, detik) yang akurat dan real-time tanpa perlu koneksi internet (karena ada baterai cadangan).
 3. Pemrosesan: ESP32 mencocokkan ID jari dengan database. Jika cocok, ESP32 mengambil data waktu dari RTC.
 4. Feedback: LCD menampilkan nama/ID dan waktu absen, sementara Buzzer berbunyi sebagai tanda proses berhasil.
 5. Konektivitas (IoT): Karena menggunakan ESP32, data absen ini nantinya bisa dikirim ke Google Sheets, Database (MySQL), atau aplikasi Telegram melalui Wi-Fi.
