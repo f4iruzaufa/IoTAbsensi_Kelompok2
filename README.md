@@ -30,7 +30,7 @@ Sistem ini bekerja dalam alur yang terintegrasi:
 | Putih  | RX Fingerprint Sensor |
 | Hitam  | Buzzer (digital pin)  |
 
-<img width="2391" height="1161" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/1d9c9e80-2b11-4da7-9af1-ba5ea5a09a16" />
+<img width="2184" height="1587" alt="Absen Real-Time_Kelompok 2_bb" src="https://github.com/user-attachments/assets/fef91f5f-b6f7-4f57-94bd-0e246176e691" />
 
 
 
